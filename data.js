@@ -1,5 +1,6 @@
 var submitDate = [
-    {date: new Date(2021, 11, 27), bgColor: "#F2F2F2", fontColor: "#999999", index: -1},
+    {date: new Date(2021, 11, 31), bgColor: "#F2F2F2", fontColor: "#999999", index: -1},
+    {date: new Date(2333, 11, 31), bgColor: "#F4FE8C", fontColor: "#270652", index: 1, name: "beeee"},
 ]
 
 /*
