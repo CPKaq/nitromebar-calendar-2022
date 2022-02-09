@@ -1,7 +1,9 @@
 var submitDate = [
     {date: new Date(2021, 11, 31), bgColor: "#F2F2F2", fontColor: "#999999", index: -1},
     {date: new Date(2022,  0, 13), bgColor: "#F4FE8C", fontColor: "#270652", index: 1, name: "beeee"},
-    {date: new Date(2333, 11, 31), bgColor: "#0201AC", fontColor: "#B120E7", index: 2, name: "Purple1207"}
+    {date: new Date(2022,  1,  3), bgColor: "#0201AC", fontColor: "#B120E7", index: 2, name: "Purple1207"},
+    {date: new Date(2022,  1,  8), bgColor: "#010101", fontColor: "#0C01FF", index: 3, name: "Kieo HIN"},
+    {date: new Date(2333, 11, 31), bgColor: "#F2F2F2", fontColor: "#999999", index: -1},
 ]
 
 /*
