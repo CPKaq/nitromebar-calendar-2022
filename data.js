@@ -3,7 +3,8 @@ var submitDate = [
     {date: new Date(2022,  0, 13), bgColor: "#F4FE8C", fontColor: "#270652", index: 1, name: "beeee"},
     {date: new Date(2022,  1,  3), bgColor: "#0201AC", fontColor: "#B120E7", index: 2, name: "Purple1207"},
     {date: new Date(2022,  1,  8), bgColor: "#010101", fontColor: "#0C01FF", index: 3, name: "Kieo HIN"},
-    {date: new Date(2022, 11, 31), bgColor: "#FEFEFF", fontColor: "#8BD2DE", index: 4, name: "团团"},
+    {date: new Date(2022,  1, 10), bgColor: "#FEFEFF", fontColor: "#8BD2DE", index: 4, name: "团团"},
+    {date: new Date(2022, 11, 31), bgColor: "#E8E160", fontColor: "#96893B", index: 10, name: "A"},
 ]
 
 /*
