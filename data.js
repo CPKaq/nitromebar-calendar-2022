@@ -6,7 +6,9 @@ var submitDate = [
     {date: new Date(2022,  1, 10), bgColor: "#FEFEFF", fontColor: "#8BD2DE", index: 4, name: "团团"},
     {date: new Date(2022,  1, 11), bgColor: "#E8E160", fontColor: "#96893B", index: 5, name: "A"},
     {date: new Date(2022,  1, 13), bgColor: "#B0AD8C", fontColor: "#A8C6EE", index: 6, name: "Luojam"},
-    {date: new Date(2022, 11, 31), bgColor: "#528161", fontColor: "#1A3429", index: 7, name: "卫斯理"}
+    {date: new Date(2022,  1, 19), bgColor: "#F2F2F2", fontColor: "#999999", index: -1},
+    {date: new Date(2022,  1, 20), bgColor: "#94C7C0", fontColor: "#3391C7", index: 7, name: "窥屏坑"},
+    {date: new Date(2022, 11, 31), bgColor: "#FFFFFF", fontColor: "#000000", index: 8, name: "CPK"}
 ]
 
 /*
